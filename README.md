@@ -1,4 +1,4 @@
--datasciencecoursera
+datasciencecoursera
 ====================
 
 nothing particular
